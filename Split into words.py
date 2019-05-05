@@ -3,8 +3,8 @@ import codecs
 import datetime
 
 #Src = r'C:\Users\rost2\Desktop\RESEARCH\2018_Election_Tweets\Ny_District_19.json'   #file with raw data
-Src = r'C:\Users\DingYue\Dropbox\19SPRING\3SYSTEM ENGINEERING AND SOCIAL MEDIA\Project\AV_TWEETS\AV_TWEETS2\textdata\negative.csv'
-Trg = r'C:\Users\DingYue\Dropbox\19SPRING\3SYSTEM ENGINEERING AND SOCIAL MEDIA\Project\AV_TWEETS\AV_TWEETS2\textdata\negatives2.csv'
+Src = r'C:\Users\DingYue\Dropbox\...\textdata\negative.csv'
+Trg = r'C:\Users\DingYue\Dropbox\...\textdata\negatives2.csv'
 
 In_File = open(Src, 'r')    #open as Unicode text
 Out_File = open(Trg, 'w')
